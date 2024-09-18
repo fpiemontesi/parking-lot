@@ -48,7 +48,23 @@
 - **Archivos Proporcionados:** No modificar ningún archivo proporcionado.
 - **SPA** La pagina nunca debe ser recargada ateniendose al mecanismo proporcionado por las aplicaciones de una sola página.
 
-Rubrica:
+## MockUps
+![image](https://github.com/user-attachments/assets/3279d9de-f4ea-45fc-895d-95f3f488a7f8)
+![image](https://github.com/user-attachments/assets/944eb0ed-1347-43cc-afa8-460e5f5faa20)
+
+## Ejemplos: 
+A continuación se presentan algunos ejemplos visuales indicando como debería quedar la disponibilidad de lugares al ingresar un nuevo vehiculo:
+
+**En caso de agregar una moto:**
+![image](https://github.com/user-attachments/assets/99b6558d-7f39-48fb-a381-a19ee1c4f4ba)
+
+**En caso de agregar un auto:**
+![image](https://github.com/user-attachments/assets/9171d8a9-099f-4c7e-a747-dda5452357b2)
+
+**En caso de agregar una camioneta:**
+![image](https://github.com/user-attachments/assets/722bef2b-74b3-40c2-a5bd-3f63f299677a)
+
+## Rubrica:
 - Registro ingreso (3)
 - Validaciones (2)
 - Mapa playa estacionamiento (3)
