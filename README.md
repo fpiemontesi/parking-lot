@@ -17,10 +17,9 @@ El objetivo de este desarrollo es poder registrar el ingreso de cada vehículo, 
      - **Dominio Nuevo** (Booleano): Indica si el vehículo tiene un dominio nuevo.
      - **Dominio** (Requerido, X Caracteres Exactos): siendo X 7 para dominios nuevos y 6 para dominios viejos.
      - **Tipo de Vehículo**: Seleccionar de un enumerado con valores: moto, auto, camioneta.
-     - **Hora de Ingreso** (Requerido): Debe ser proporcionada.
+     - **Hora de Ingreso** (Requerido): Debe ser proporcionada. Cargar la hora actual por defecto.
    - **Validación:**
      - Mostrar errores solo después de que el usuario haya interactuado con los controles del formulario.
-     - No marcar los campos como inválidos hasta que el formulario haya sido enviado al menos una vez.
    
 3. **Visualización de Una Pantalla a la Vez:**
    - **Visibilidad del Formulario y del Mapa:**
