@@ -53,8 +53,8 @@ El objetivo de este desarrollo es poder registrar el ingreso de cada vehículo, 
 
 ## MockUps
 ![image](https://github.com/user-attachments/assets/3279d9de-f4ea-45fc-895d-95f3f488a7f8)
-![image](https://github.com/user-attachments/assets/944eb0ed-1347-43cc-afa8-460e5f5faa20)
-![image](https://github.com/user-attachments/assets/a2518bf6-7534-4a02-974e-d4d08283d88a)
+![image](https://github.com/user-attachments/assets/2a1acc62-9738-40cc-9e8f-54449902ac9e)
+![image](https://github.com/user-attachments/assets/84358f1f-287d-4d79-b0dc-516d35a92ff1)
 
 
 ## Ejemplos: 
