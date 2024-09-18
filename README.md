@@ -51,6 +51,8 @@
 ## MockUps
 ![image](https://github.com/user-attachments/assets/3279d9de-f4ea-45fc-895d-95f3f488a7f8)
 ![image](https://github.com/user-attachments/assets/944eb0ed-1347-43cc-afa8-460e5f5faa20)
+![image](https://github.com/user-attachments/assets/a2518bf6-7534-4a02-974e-d4d08283d88a)
+
 
 ## Ejemplos: 
 A continuación se presentan algunos ejemplos visuales indicando como debería quedar la disponibilidad de lugares al ingresar un nuevo vehiculo:
